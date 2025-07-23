@@ -11,9 +11,6 @@ Are you trying to secure your device using a trusted security solution? If youâ€
 
 In this guide, we will cover how to begin the **Webroot SecureAnywhere Download**, use **webroot.com/safe**, and activate your protection easily. We'll also include how to redeem a keycode, create a Webroot account, and use your subscription across multiple devices.
 
-.. contents::
-   :local:
-
 Understanding Webroot SecureAnywhere
 ------------------------------------
 
